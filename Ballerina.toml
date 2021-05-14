@@ -1,0 +1,7 @@
+[package]
+org = "kishanthan"
+name = "nvd_scraper"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
